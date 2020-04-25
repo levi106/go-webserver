@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 env:
-  IMAGE_NAME: server
+  IMAGE_NAME: go-webserver
   IMAGE_TAG: latest
 
 jobs:
